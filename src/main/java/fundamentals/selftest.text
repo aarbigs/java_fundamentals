@@ -1,0 +1,42 @@
+1. Bytecode is the set of instructions executed by the java run-time system or JVM. This is important for internet programming because the code is contained in the JVM and is more secure.
+2. Encapsulation (keeps code and data together without access from outside) Polymorphism ("one interface multiple methods") inheritance (process by which one object can acquire the properties of another object)
+3. A java program begins with a call to the main method
+4. A variable is a "named memory location that can be assigned a value"
+5. A. yes B. yes C. yes D. no 
+6. // a single line comment /* a multiline comment */
+7. if (condition==true){
+	then <execute block of code>
+}
+for (initilization,condition,iteration){
+	execute block of code 
+}
+8. create blocks of code with {}
+9. class MyWeightOnTheMoon {
+	int myWeight = 160;
+	int moonGravity = .17;
+
+	public MyWeightOnTheMoon(myWeight,moonGravity){
+		return myWeight * moonGravity;
+	}
+}
+
+10.class InchesToMeters {
+    public static void main(String args[]) {
+        double inches; 
+        double meters;  
+        int counter =0;
+
+        for(inches=1;inches<=144,inches++){
+        	meters = inches / 39.37;
+        	counter++;
+        	System.out.println(inches+" inches is"+meters+" meters");
+        	if (counter==12){
+        		System.out.println();
+        		counter = 0;
+        	}
+        }
+    }
+}
+
+11. Syntax error
+12. no
