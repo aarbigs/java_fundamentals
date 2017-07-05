@@ -1,0 +1,24 @@
+1. An object is created by a class.
+
+2. Class is defined by the keyword "class"
+
+3. a constructor.
+
+4. class MyCounter{
+    MyCounter counter = new MyCounter();
+}
+
+5. public double myMeth(int a, int b){
+}
+
+6. return value.
+
+7. the same name of the class
+
+8. new is the keyword to create an object
+
+9. Garbage collection destroy unused variables or methods
+
+10. yes
+
+11. void.
